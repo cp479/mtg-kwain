@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #000;
+    background-color: rgba(14, 104, 171);
     color: #ffffff;
     text-align: center;
 }
@@ -68,7 +68,8 @@ body {
 
 /* START HERO STYLING */
 #mtg-card {
-    border-radius: 15px; /* Adjust the radius value to control the amount of rounding */
+    border-radius: 25px; /* Adjust the radius value to control the amount of rounding */
+    display: flex;
 }
 
 body {
@@ -84,7 +85,12 @@ main {
 }
 
 #subtitle {
-    margin-top: 20px;
+    margin: 20px;
+}
+
+#primer {
+    margin: 20px;
+    text-align: left;
 }
 
 .hero-info {
@@ -189,6 +195,8 @@ blockquote p {
     margin-bottom: 5px;
 }
 
+
+/* START FOOTER STYLING */
 .footer-section {
     text-align: center;
     padding: 10px;
@@ -204,3 +212,4 @@ blockquote p {
 .footer-content p {
     font-size: 0.9rem;
 }
+/* END FOOTER STYLING */
