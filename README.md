@@ -1,4 +1,13 @@
 # mtg-kwain
+<h1>V3.0</h1>
+<ul>
+<li>Added branch kwain-v2
+</li>
+<li> Added section below hero banner
+</li>
+</ul>
+Added branch kwain-v2
+
 <h1>V2.2.1</h1>
 <ul>
 <li> Add text color gradient
