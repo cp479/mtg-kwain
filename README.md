@@ -1,12 +1,23 @@
 # mtg-kwain
+<h1>V3.2</h1>
+<ul>
+<li> Add meet the commander section
+</li>
+</ul>
+
+<h1>V3.1</h1>
+<ul>
+<li> Add block quote
+</li>
+</ul>
+
 <h1>V3.0</h1>
 <ul>
-<li>Added branch kwain-v2
+<li> Added branch kwain-v2
 </li>
 <li> Added section below hero banner
 </li>
 </ul>
-Added branch kwain-v2
 
 <h1>V2.2.1</h1>
 <ul>

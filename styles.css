@@ -15,7 +15,7 @@ body {
 /* Hero section */
 .hero-section {
     background: linear-gradient(to right, rgba(139, 137, 137, 0.5), rgba(65, 64, 64, 0.5)), 
-        url('Kwainv2.webp') center/cover no-repeat;
+        url('Kwain.png') center/cover no-repeat;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -65,6 +65,85 @@ body {
     font-size: 1.5rem;
     margin: 10px 0; /* Adds vertical spacing */
 }
+
+/* START HERO STYLING */
+#mtg-card {
+    border-radius: 15px; /* Adjust the radius value to control the amount of rounding */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+main {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 75px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#subtitle {
+    margin-top: 20px;
+}
+
+.hero-info {
+    width: 700px;
+    gap: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0;
+}
+
+main p {
+    font-size: 18px;
+    color: #e5e7ebe3;
+    font-weight: 300;
+}
+
+main button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
+    padding: 5px 20px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 9px;
+}
+/* END HERO STYLING */
+
+
+
+/* START QUOTE STYLING */
+.quote-container {
+    display: flex;
+    background-color: rgb(179, 206, 234);
+    justify-content: center;
+    padding: 50px;
+}
+
+blockquote {
+    width: 800px;
+    color: #ffffff;
+}
+
+blockquote p {
+    font-size: 36px;
+    font-weight: 250;
+    font-style: italic;
+}
+
+.author {
+    display: block;
+    text-align: right;
+    font-size: 28px;
+    font-weight: 700;
+}
+/* END QUOTE STYLING */
+
 
 .main-content {
     background: linear-gradient(to right, rgba(139, 137, 137, 0.5), rgba(65, 64, 64, 0.5)), 
