@@ -1,0 +1,67 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #ffffff;
+    text-align: center;
+}
+
+/* Hero section */
+.hero-section {
+    background: linear-gradient(to right, rgba(139, 137, 137, 0.5), rgba(65, 64, 64, 0.5)), 
+        url('Kwain.png') center/cover no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+
+.hero-section::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    z-index: 2;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 3;
+    padding: 20px;
+    border-radius: 10px;
+    align-content: center;
+    
+}
+
+.hero-content h1 {
+    font-size: 4rem;
+    margin-bottom: 10px;
+    background: linear-gradient(to right, white, rgb(0, 102, 255)); /* Add white/blue colour gradient */
+    -webkit-background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero-content p {
+    font-size: 2rem;
+}
+
+.hero-content ul {
+    list-style-type: none; /* Removes bullet points */
+}
+
+.hero-content ul li {
+    font-size: 1.5rem;
+    margin: 10px 0; /* Adds vertical spacing */
+}
