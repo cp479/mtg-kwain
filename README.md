@@ -1,4 +1,34 @@
 # mtg-kwain
+<h1>V4.0</h1>
+<ul>
+<li> Add second hero section
+</li>
+</ul>
+
+<h1>V3.4</h1>
+<ul>
+<li> Add sections on subthemes
+</li>
+</ul>
+
+<h1>V3.3.1</h1>
+<ul>
+<li> Fix HTML IDs and image formatting
+</li>
+</ul>
+
+<h1>V3.3</h1>
+<ul>
+<li> Add card sections for sub-themes
+</li>
+</ul>
+
+<h1>V3.2.1</h1>
+<ul>
+<li> Minor html edits
+</li>
+</ul>
+
 <h1>V3.2</h1>
 <ul>
 <li> Add meet the commander section
