@@ -222,12 +222,11 @@ blockquote p {
 .hero-section2 {
     background: linear-gradient(to right, rgba(139, 137, 137, 0.5), rgba(65, 64, 64, 0.5)), 
         url('images/jingitaxias.png') center/cover no-repeat;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    z-index: 1;
+        height: 700px;
+        background-color: #333;
+        color: #fff;
+        padding: 50px;
+        text-align: center;
 }
 
 .hero-content2 {
@@ -250,6 +249,19 @@ blockquote p {
 .hero-content2 ul li {
     font-size: 1.5rem;
     margin: 10px 0; /* Adds vertical spacing */
+}
+
+.hero-section2.show {
+    opacity: 1; /* Opacity 1 when .show class is added */
+}
+
+#jincard {
+    border-radius: 10px;
+}
+
+#jintext {
+    border-radius: 10px;
+    text-align: left;
 }
 
 
