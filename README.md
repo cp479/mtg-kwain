@@ -1,4 +1,22 @@
 # mtg-kwain
+<h1>V4.3</h1>
+<ul>
+<li> Finish gameplan section
+</li>
+</ul>
+
+<h1>V4.2</h1>
+<ul>
+<li> Add gameplan section
+</li>
+</ul>
+
+<h1>V4.1.1</h1>
+<ul>
+<li> Fix second hero section
+</li>
+</ul>
+
 <h1>V4.1</h1>
 <ul>
 <li> Add third subtheme
