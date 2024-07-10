@@ -1,4 +1,12 @@
 # mtg-kwain
+<h1>V4.1</h1>
+<ul>
+<li> Add third subtheme
+</li>
+<li> Copy intro to end section
+</li>
+</ul>
+
 <h1>V4.0</h1>
 <ul>
 <li> Add second hero section
